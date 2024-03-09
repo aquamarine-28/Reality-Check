@@ -1,5 +1,5 @@
 # AI4All-project
-# Name: 
+# Name: Reality Check (tentative)
 Our proposed project for the AI4All Spring Accelerator.
 
 
