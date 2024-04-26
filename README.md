@@ -13,6 +13,7 @@ With the latest innovations in deep fake technologies and video production, it h
 By our tests, our model can perform segmentation, analysis, and classification of images in as little as 2.0ms, with a 75-80% accuracy.
 
 ### Post Training Results
+![Screenshot (84)](https://github.com/nmesosphere/Reality-Check/assets/65504077/887a4a1a-e5fe-450e-b3e8-020dd292996e)
 
 ## Data Sources
 Dataset - https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images
