@@ -1,6 +1,6 @@
-# AI4All-project (_in progress_)
+# AI4All-project
 ## Reality Check
-Our proposed project for the 2024 AI4All Spring Accelerator. _Reality Check_, an instance segementation detection model.
+ _Reality Check_, an instance segementation detection model.
 
 ## Problem and Objective
 With the latest innovations in deep fake technologies and video production, it has become more challenging to distinguish between real and AI-generated images and videos. As a consequence, malicious and harmful media can now be created and disseminated online with relative ease, which can cause significant harm to the mental health, reputation, and overall character of an individual. To address this issue, we created "Reality Check," an image detection model that utilizes instances of AI-manipulation to accurately analyze and determine authentic and deepfaked images, instead of relying solely on classification data.
