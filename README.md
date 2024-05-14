@@ -21,6 +21,7 @@ Dataset - https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images
 ## Technologies Used
 - Python
 - Google Colaboratory
+- Heroku
 - Roboflow
 - OpenCV
 - Flask
